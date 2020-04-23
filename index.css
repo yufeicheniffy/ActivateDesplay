@@ -5,13 +5,17 @@
 }
 ol{
     list-style: none;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 header{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: cornflowerblue;
+    background-color: dodgerblue;
     padding: 1rem;
     color: white;
     border-radius: 1rem;
@@ -25,25 +29,30 @@ main{
       margin: 10px;
 }
 h1{
+   font-size: 3rem;
+    font-weight: bold;
+ }
+h2{
    font-size: 2rem;
     font-weight: bold;
  }
 
 li{
-    margin: 5px 10px;
+    margin: 5px 0px;
 }
 .explaination{
-    background-color: lightblue;
+    background-color: cornflowerblue;
     width: 100%;
     border-radius: 1rem;
     padding: 0.5rem;
-
 }
 .number {
-    color: black;
+    font-weight: bold;
+     color:white;
     font-size: 2rem;
 }
 .text{
-    color: black;
+    font-weight: bold;
+    color:white;
     font-size: 2rem;
 }
