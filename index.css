@@ -11,18 +11,18 @@ header{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 10px;
     background-color: cornflowerblue;
     padding: 1rem;
     color: white;
     border-radius: 1rem;
+      margin: 10px;
 }
 main{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 10px;
+      margin: 10px;
 }
 h1{
    font-size: 2rem;
@@ -30,7 +30,7 @@ h1{
  }
 
 li{
-    margin: 5px 0;
+    margin: 5px 10px;
 }
 .explaination{
     background-color: lightblue;
