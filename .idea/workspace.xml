@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8925e7e1-4b08-4b33-b8e7-96712f7a9e91" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/NO1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/NO2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/NO3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/NO4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/NO5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/NO6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/NO7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/NO8.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +66,7 @@
       <workItem from="1587388102358" duration="162000" />
       <workItem from="1587388268436" duration="2000" />
       <workItem from="1587388278101" duration="4743000" />
-      <workItem from="1587643166751" duration="3265000" />
+      <workItem from="1587643166751" duration="3614000" />
     </task>
     <servers />
   </component>
@@ -68,10 +74,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="578" y="249" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587644054692">
+    <state x="578" y="249" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587646946356">
       <screen x="0" y="23" width="1680" height="945" />
     </state>
-    <state x="578" y="249" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.945@0.23.1680.945" timestamp="1587644054692" />
+    <state x="578" y="249" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.945@0.23.1680.945" timestamp="1587646946356" />
     <state x="517" y="328" key="com.intellij.ide.util.TipDialog" timestamp="1587643167420">
       <screen x="0" y="23" width="1680" height="945" />
     </state>
