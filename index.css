@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    pardding:0;
+    box-sizing: border-box;
+}
+ol{
+    list-style: none;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+   font-size: 2rem;
+    font-weight: bold;
+ }
+
+li{
+    margin: 5px 0;
+}
+.number {
+    color: black;
+    font-size: 2rem;
+}
+.text{
+    color: black;
+    font-size: 2rem;
+}
