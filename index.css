@@ -12,8 +12,8 @@ ol{
 }
 header{
     display: flex;
-    flex-direction: column;
-    justify-content: center;
+    flex-direction: row;
+    justify-content: left;
     align-items: center;
     background-color: dodgerblue;
     padding: 1rem;
@@ -39,6 +39,10 @@ h2{
 
 li{
     margin: 5px 0px;
+}
+#icon{
+    padding: 2rem;
+    width: 40%;
 }
 .explaination{
     background-color: cornflowerblue;
